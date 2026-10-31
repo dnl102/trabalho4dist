@@ -1,0 +1,11 @@
+Method,Name,Error,Occurrences,First Seen,Last Seen
+GET,pagina1.html,"ConnectionResetError(104, 'Connection reset by peer')",781,2026-10-29T03:44:29Z,2026-10-29T03:45:20Z
+GET,pagina2.html,"ConnectionResetError(104, 'Connection reset by peer')",758,2026-10-29T03:44:29Z,2026-10-29T03:45:20Z
+GET,pagina7.html,"ConnectionResetError(104, 'Connection reset by peer')",652,2026-10-29T03:44:27Z,2026-10-29T03:45:20Z
+GET,pagina9.html,"ConnectionResetError(104, 'Connection reset by peer')",634,2026-10-29T03:44:29Z,2026-10-29T03:45:20Z
+GET,pagina6.html,"ConnectionResetError(104, 'Connection reset by peer')",678,2026-10-29T03:44:27Z,2026-10-29T03:45:20Z
+GET,pagina4.html,"ConnectionResetError(104, 'Connection reset by peer')",740,2026-10-29T03:44:27Z,2026-10-29T03:45:20Z
+GET,pagina5.html,"ConnectionResetError(104, 'Connection reset by peer')",697,2026-10-29T03:44:27Z,2026-10-29T03:45:20Z
+GET,pagina3.html,"ConnectionResetError(104, 'Connection reset by peer')",738,2026-10-29T03:44:27Z,2026-10-29T03:45:20Z
+GET,pagina8.html,"ConnectionResetError(104, 'Connection reset by peer')",640,2026-10-29T03:44:29Z,2026-10-29T03:45:20Z
+GET,pagina10.html,"ConnectionResetError(104, 'Connection reset by peer')",627,2026-10-29T03:44:29Z,2026-10-29T03:45:20Z

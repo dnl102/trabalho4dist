@@ -1,0 +1,11 @@
+Method,Name,Error,Occurrences,First Seen,Last Seen
+GET,pagina5.html,"ReadTimeout(ReadTimeoutError(""HTTPConnectionPool(host='localhost', port=4567): Read timed out. (read timeout=10)""))",8,2026-10-29T04:12:11Z,2026-10-29T04:12:15Z
+GET,pagina7.html,"ReadTimeout(ReadTimeoutError(""HTTPConnectionPool(host='localhost', port=4567): Read timed out. (read timeout=10)""))",8,2026-10-29T04:12:13Z,2026-10-29T04:12:33Z
+GET,pagina6.html,"ReadTimeout(ReadTimeoutError(""HTTPConnectionPool(host='localhost', port=4567): Read timed out. (read timeout=10)""))",10,2026-10-29T04:12:11Z,2026-10-29T04:12:15Z
+GET,pagina8.html,"ReadTimeout(ReadTimeoutError(""HTTPConnectionPool(host='localhost', port=4567): Read timed out. (read timeout=10)""))",13,2026-10-29T04:12:27Z,2026-10-29T04:12:37Z
+GET,pagina9.html,"ReadTimeout(ReadTimeoutError(""HTTPConnectionPool(host='localhost', port=4567): Read timed out. (read timeout=10)""))",16,2026-10-29T04:12:32Z,2026-10-29T04:12:47Z
+GET,pagina10.html,"ReadTimeout(ReadTimeoutError(""HTTPConnectionPool(host='localhost', port=4567): Read timed out. (read timeout=10)""))",12,2026-10-29T04:12:32Z,2026-10-29T04:12:46Z
+GET,pagina2.html,"ReadTimeout(ReadTimeoutError(""HTTPConnectionPool(host='localhost', port=4567): Read timed out. (read timeout=10)""))",1,2026-10-29T04:12:48Z,2026-10-29T04:12:48Z
+GET,pagina1.html,"ReadTimeout(ReadTimeoutError(""HTTPConnectionPool(host='localhost', port=4567): Read timed out. (read timeout=10)""))",3,2026-10-29T04:12:00Z,2026-10-29T04:12:00Z
+GET,pagina4.html,"ReadTimeout(ReadTimeoutError(""HTTPConnectionPool(host='localhost', port=4567): Read timed out. (read timeout=10)""))",5,2026-10-29T04:12:11Z,2026-10-29T04:12:13Z
+GET,pagina3.html,"ReadTimeout(ReadTimeoutError(""HTTPConnectionPool(host='localhost', port=4567): Read timed out. (read timeout=10)""))",1,2026-10-29T04:12:13Z,2026-10-29T04:12:13Z

@@ -1,0 +1,30 @@
+# Ambiente de teste: as duas versões da API + Redis + um servidor com as páginas de teste.
+#
+# Ligar com cache:  USE_CACHE=true  docker compose up -d --build
+# Ligar sem cache:  USE_CACHE=false docker compose up -d --build
+
+services:
+  api-python:
+    build: ./services/python
+    ports:
+      - "5000:5000"
+    environment:
+      - REDIS_URL=redis://redis:6379
+      - USE_CACHE=${USE_CACHE:-true}
+
+  api-ruby:
+    build: ./services/ruby
+    ports:
+      - "4567:4567"
+    environment:
+      - REDIS_URL=redis://redis:6379
+      - USE_CACHE=${USE_CACHE:-true}
+
+  redis:
+    image: redis:7
+
+  # Servidor das 10 páginas HTML que serão passadas como URL para a API
+  sites:
+    image: nginx:1.27
+    volumes:
+      - ./sites:/usr/share/nginx/html:ro

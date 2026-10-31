@@ -1,0 +1,2 @@
+Method,Name,Error,Occurrences,First Seen,Last Seen
+GET,pagina1.html,"ReadTimeout(ReadTimeoutError(""HTTPConnectionPool(host='localhost', port=4567): Read timed out. (read timeout=10)""))",1,2026-10-29T04:07:58Z,2026-10-29T04:07:58Z

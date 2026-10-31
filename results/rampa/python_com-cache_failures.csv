@@ -1,0 +1,24 @@
+Method,Name,Error,Occurrences,First Seen,Last Seen
+GET,pagina9.html,HTTPError('500 Server Error: INTERNAL SERVER ERROR for url: pagina9.html'),2,2026-10-29T04:17:25Z,2026-10-29T04:17:26Z
+GET,pagina8.html,HTTPError('500 Server Error: INTERNAL SERVER ERROR for url: pagina8.html'),1,2026-10-29T04:17:26Z,2026-10-29T04:17:26Z
+GET,pagina1.html,HTTPError('500 Server Error: INTERNAL SERVER ERROR for url: pagina1.html'),2,2026-10-29T04:17:25Z,2026-10-29T04:17:26Z
+GET,pagina6.html,RemoteDisconnected('Remote end closed connection without response'),2,2026-10-29T04:15:54Z,2026-10-29T04:15:54Z
+GET,pagina1.html,"ConnectionResetError(104, 'Connection reset by peer')",2634,2026-10-29T04:14:39Z,2026-10-29T04:18:18Z
+GET,pagina2.html,"ConnectionResetError(104, 'Connection reset by peer')",2680,2026-10-29T04:14:39Z,2026-10-29T04:18:18Z
+GET,pagina2.html,HTTPError('500 Server Error: INTERNAL SERVER ERROR for url: pagina2.html'),2,2026-10-29T04:17:26Z,2026-10-29T04:17:26Z
+GET,pagina4.html,HTTPError('500 Server Error: INTERNAL SERVER ERROR for url: pagina4.html'),4,2026-10-29T04:17:25Z,2026-10-29T04:17:26Z
+GET,pagina7.html,"ConnectionResetError(104, 'Connection reset by peer')",2257,2026-10-29T04:14:39Z,2026-10-29T04:18:18Z
+GET,pagina4.html,RemoteDisconnected('Remote end closed connection without response'),5,2026-10-29T04:15:54Z,2026-10-29T04:16:19Z
+GET,pagina9.html,"ConnectionResetError(104, 'Connection reset by peer')",2009,2026-10-29T04:14:39Z,2026-10-29T04:18:20Z
+GET,pagina6.html,HTTPError('500 Server Error: INTERNAL SERVER ERROR for url: pagina6.html'),2,2026-10-29T04:17:26Z,2026-10-29T04:17:26Z
+GET,pagina6.html,"ConnectionResetError(104, 'Connection reset by peer')",2367,2026-10-29T04:14:39Z,2026-10-29T04:18:18Z
+GET,pagina4.html,"ConnectionResetError(104, 'Connection reset by peer')",2548,2026-10-29T04:14:39Z,2026-10-29T04:18:18Z
+GET,pagina10.html,RemoteDisconnected('Remote end closed connection without response'),2,2026-10-29T04:15:54Z,2026-10-29T04:15:54Z
+GET,pagina5.html,"ConnectionResetError(104, 'Connection reset by peer')",2464,2026-10-29T04:14:39Z,2026-10-29T04:18:18Z
+GET,pagina9.html,RemoteDisconnected('Remote end closed connection without response'),1,2026-10-29T04:15:54Z,2026-10-29T04:15:54Z
+GET,pagina1.html,RemoteDisconnected('Remote end closed connection without response'),3,2026-10-29T04:16:19Z,2026-10-29T04:17:24Z
+GET,pagina5.html,HTTPError('500 Server Error: INTERNAL SERVER ERROR for url: pagina5.html'),1,2026-10-29T04:17:25Z,2026-10-29T04:17:25Z
+GET,pagina3.html,"ConnectionResetError(104, 'Connection reset by peer')",2636,2026-10-29T04:14:39Z,2026-10-29T04:18:18Z
+GET,pagina8.html,"ConnectionResetError(104, 'Connection reset by peer')",2110,2026-10-29T04:14:39Z,2026-10-29T04:18:20Z
+GET,pagina2.html,RemoteDisconnected('Remote end closed connection without response'),1,2026-10-29T04:17:15Z,2026-10-29T04:17:15Z
+GET,pagina10.html,"ConnectionResetError(104, 'Connection reset by peer')",1907,2026-10-29T04:14:39Z,2026-10-29T04:18:18Z

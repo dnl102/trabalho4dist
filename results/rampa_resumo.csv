@@ -1,0 +1,5 @@
+api,cache,usuarios_na_primeira_falha,usuarios_com_falhas_acima_de_1pct,max_usuarios,total_requisicoes,total_falhas,maior_vazao_req_por_s
+python,com-cache,79.0,82.0,297,202014,23640,889.4
+python,sem-cache,166.0,178.0,299,13108,783,51.6
+ruby,com-cache,,,299,235074,0,1001.0
+ruby,sem-cache,36.0,184.0,299,14207,940,75.6

@@ -1,0 +1,18 @@
+# Ambiente / dependências
+.venv/
+node_modules/
+__pycache__/
+*.pyc
+
+# Logs de execução
+*.log
+
+# Documentação
+*.md
+
+# Cópia do repositório original (não usado diretamente)
+linkextractor/
+
+# Apresentação: só o .pptx
+apresentacao/*
+!apresentacao/apresentacao.pptx
